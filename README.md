@@ -64,6 +64,11 @@ Mobile BRANDZONE 2025 provides a data-driven, global perspective on smartphone p
 
 This benchmark can help tech analysts, consumers, and marketers better understand **what device truly offers the most for its price** — globally.
 
+
+## 🪨 Dataset Source
+
+The Dataset was picked from Kaggle (Mobiles Dataset (2025)) and adapted for this project. 
+ 
 ---
 
 🦅  
